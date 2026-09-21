@@ -16,7 +16,7 @@ Python project using anonymized banking data to clean, validate, transform, and 
 
 **Tools:** Python, Pandas
 
-[View Project](Bank Transaction Data and Processing Analysis.ipynb)
+[View Project](PUT-LINK-HERE)
 
 ---
 
